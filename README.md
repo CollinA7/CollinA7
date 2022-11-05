@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CollinA7
+- 👋 Hi, I’m Collin
 
 - 👀 I’m interested in a bunch of different hobbies. One of which is keeping a marine fish tank. In my fish tank it includes fish, coral, snails, and many other invertebrates!
  
