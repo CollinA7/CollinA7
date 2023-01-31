@@ -6,6 +6,9 @@
  
 - 📫 You can reach me at collinayala@gmail.com for any inquiries.
 
+# Portfolio:
+https://collina7.github.io/portfolio/
+
 <!---
 CollinA7/CollinA7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
